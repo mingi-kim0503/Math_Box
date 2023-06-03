@@ -10,13 +10,8 @@ def multiply(a, b):
 def divide_new(a, b):
   return a / b * 2
 
-def test_func2(a, b):
-
-def get_medianss(a, b):
-  return (a+b)/4
-
-def test_func(a, b):
-  return (a+b) / 3
+def get_median(a, b):
+  return (a+b) / 2
 
 def get_abs(a):
   if a >= 0:
