@@ -18,3 +18,9 @@ def get_medianss(a, b):
 
 def test_func(a, b):
   return (a+b) / 3
+
+def get_abs(a):
+  if a >= 0:
+    return a
+  else:
+    return -a
