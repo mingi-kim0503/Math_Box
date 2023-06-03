@@ -23,3 +23,8 @@ def get_abs(a):
     return a
   else:
     return -a
+=======
+  if a == 0:
+    return a
+  else:
+>>>>>>> Stashed changes
